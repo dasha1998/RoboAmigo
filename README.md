@@ -1,4 +1,4 @@
-# dangerBall
+
 Team "The ZVEZDNAYA"
 ------------------------
 Team Members :
@@ -8,5 +8,5 @@ Team Members :
 4. Yeremenko Daria (QA)
 5. Pashinskiy Volodimir (developer)
 6. Sysoev Maksim (developer)
-------------------------
- Project name : DangerBall!
+
+ Project name : RoboAmigo
